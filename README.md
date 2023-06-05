@@ -1,2 +1,1 @@
 # maven-etech-application
-test
